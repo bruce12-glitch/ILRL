@@ -1,4 +1,4 @@
-# Leibniz Computing Lab × Turing Labs
+# ILRL ( Inference in Loops and Recurrent Learning ) Labs
 
 A classic editorial website for research into efficient LLM inference, practical ML systems, and capable AI with less memory, latency
 
